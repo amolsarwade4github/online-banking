@@ -9,3 +9,14 @@
 body {
     font-family: 'Rubik', sans-serif;
 }
+
+.button {
+    background: #125a22;
+    color: #ffffff;
+    font: inherit;
+    border: 1.5px solid #125a22;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
